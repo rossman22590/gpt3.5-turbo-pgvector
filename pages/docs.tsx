@@ -191,10 +191,7 @@ const DocsPage: NextPage<Props> = ({ children, meta: pageMeta }: Props) => {
             <p><sup>*</sup>Actually, I'm currently only trained on the following documentation:</p>
             <ul>
               <li><a target="_blank" href="">https://mytsi.org/</a></li>
-<!--               <li><a target="_blank" href="">https://supabase.com/docs</a></li>
-              <li><a target="_blank" href="">https://tailwindcss.com/docs</a></li>
-              <li><a target="_blank" href="">https://nextjs.org/docs</a></li>
-              <li><a target="_blank" href="">https://beta.nextjs.org/docs</a></li> -->
+
             </ul>
             </div>
 
